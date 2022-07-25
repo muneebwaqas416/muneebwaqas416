@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm M. Muneeb Waqas</h1>
 <h3 align="center">A passionate software developer from Pakistan.</h3>
-(img align="right" alt="Coding" width="400" src="https://stock.adobe.com/search?k=programmer+cartoon&asset_id=278374738")
+(img align="right" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneebwaqas416&label=Profile%20views&color=0e75b6&style=flat" alt="muneebwaqas416" /> </p>

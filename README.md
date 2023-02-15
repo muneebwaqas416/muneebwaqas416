@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneebwaqas416&label=Profile%20views&color=0e75b6&style=flat" alt="muneebwaqas416" /> </p>
 
-- 🌱 I’m currently learning **CSS ,JavaScript**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **C++ ,Java**
+- 💬 Ask me about **C++ ,Java , HTML,CSS , JavaScript**
 
 - 📫 How to reach me **muneebwaqas416@gmail.com**
 

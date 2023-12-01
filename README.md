@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **C++ ,Java , HTML,CSS , JavaScript**
+- 💬 Ask me about **C++ ,Java , HTML,CSS , JavaScript , ReactJS , NODEJS , ExpressJS , MongoDB , MYSQL**
 
-- 📫 How to reach me **muneebwaqas416@gmail.com**
+- 📫 How to reach me **muneebwaqas900@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 

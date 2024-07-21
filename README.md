@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneebwaqas416&label=Profile%20views&color=0e75b6&style=flat" alt="muneebwaqas416" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently working as a **MERN Stack** Web developer.
 
-- 💬 Ask me about **C++ ,Java , HTML,CSS , JavaScript , ReactJS , NODEJS , ExpressJS , MongoDB , MYSQL**
+- 💬 Ask me about **C++ ,Java , HTML,CSS , JavaScript , ReactJS , NODEJS , ExpressJS , MongoDB ,Open AI API , Stripe API , API integration , full stack web applications ,  MYSQL**
 
 - 📫 How to reach me **muneebwaqas900@gmail.com**
 

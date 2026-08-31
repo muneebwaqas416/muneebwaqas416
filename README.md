@@ -144,6 +144,18 @@ Working with enterprise integrations, scalable backend services, dashboards, and
 
 Worked on full-stack applications, backend services, microservices, enterprise integrations, dashboards, and data-driven systems using **React, Node.js, NestJS, Django, PostgreSQL, MySQL, and MongoDB**.
 
+### Full-Stack Engineer — Victory Waves
+
+**Aug 2023 – Jul 2024 · Remote, US**
+
+Built a scalable data ingestion and enrichment platform for US political filings using **Python, Django, Django REST Framework, PostgreSQL, TypeScript, Next.js, Playwright, Gemini API, Trigger.dev, AWS S3, and shadcn/ui**.
+
+Designed a unified multi-state ingestion pipeline with pluggable source adapters for different acquisition patterns, while using **Gemini API** to extract structured data from varying filing documents.
+
+Designed the **PostgreSQL schema and ERD**, built REST APIs and backend workflows, and implemented idempotent ingestion with source provenance to ensure reliable and traceable data processing.
+
+Developed enrichment workflows using **Apify, LinkedIn, SerpAPI, and Cheerio**, contributed to the Next.js frontend, and built pipeline tests and documentation.
+
 ---
 
 ## 🤖 AI & Agentic AI
